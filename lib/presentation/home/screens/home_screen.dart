@@ -9,8 +9,6 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       drawer: const DrawerCustom(),
       appBar: AppBar(
-        // Al quitar la propiedad 'leading', Flutter genera automáticamente
-        // el botón de hamburguesa y la acción de abrir el drawer.
         title: const Text('Mojo Dojo Casa House'),
       ),
       body: Center(

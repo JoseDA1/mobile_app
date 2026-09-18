@@ -31,7 +31,7 @@ class ProfileTwo extends StatelessWidget {
               fullName: "Sergio Andres Diaz",
               profession: "Student",
               email: "sadiazfi@ufpso.edu.co",
-              phone: '3283371782'
+              phone: '3166469140'
             ),
             const SizedBox(height: 16),
 

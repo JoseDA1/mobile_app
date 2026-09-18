@@ -40,7 +40,7 @@ class ProfileTwo extends StatelessWidget {
               children: [
                 Expanded(
                   child: InfoCard(
-                    icon: Icons.music_note,
+                    icon: Icons.sports_basketball,
                     title: 'My Hobbies',
                     subtitle: 'I like playing basket',
                     backgroundColor: const Color(0xFFC5AB9F),
@@ -50,7 +50,7 @@ class ProfileTwo extends StatelessWidget {
                 const SizedBox(width: 14), // para separar los widgets
                 Expanded(
                   child: InfoCard(
-                    icon: Icons.music_note,
+                    icon: Icons.sports_esports,
                     title: 'My Taste',
                     subtitle: 'I like video games',
                     backgroundColor: const Color(0xFF827064),
@@ -67,8 +67,8 @@ class ProfileTwo extends StatelessWidget {
                 ActivityItem(icon: Icons.work_outline, title: 'Working'),
                 ActivityItem(icon: Icons.videogame_asset_outlined, title: 'Playing'),
                 ActivityItem(icon: Icons.restaurant, title: 'Eating'),
-                ActivityItem(icon: Icons.restaurant, title: 'Sleeping'),
-                ActivityItem(icon: Icons.restaurant, title: 'Working out'),
+                ActivityItem(icon: Icons.bed, title: 'Sleeping'),
+                ActivityItem(icon: Icons.fitness_center, title: 'Working out'),
               ],
             )
           ],

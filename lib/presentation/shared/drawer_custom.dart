@@ -21,7 +21,7 @@ class DrawerCustom extends StatelessWidget {
                     alignment: Alignment.centerLeft,
                     child: ListTile(
                       title: const Text("Midterm exam", style: TextStyle(fontWeight: FontWeight.bold, color: Color(0xFFFFFCF7))),
-                      subtitle: const Text("???", style: TextStyle(color: Color(0xFFE6E4DF))),
+                      subtitle: const Text("Sixth term", style: TextStyle(color: Color(0xFFE6E4DF))),
                     )
                   ),
                 ),

@@ -15,9 +15,9 @@ class MyApp extends StatelessWidget {
       title: 'Home Exam App',
       // Tema global
       theme: ThemeData(
-        scaffoldBackgroundColor: const Color(0xFF121418), // Fondo de todas las pantallas
+        scaffoldBackgroundColor: const Color(0xFFFFFAF7), // Fondo de todas las pantallas
         appBarTheme: const AppBarTheme(
-          backgroundColor: Color(0xFF0091EA), // Fondo azul del AppBar
+          backgroundColor: Color(0xFFC5AB9F), // Fondo del AppBar
           iconTheme: IconThemeData(color: Colors.white),
           titleTextStyle: TextStyle( //Estilos de appbar
             color: Colors.white,

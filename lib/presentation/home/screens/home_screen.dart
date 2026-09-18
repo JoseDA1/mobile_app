@@ -21,7 +21,7 @@ class HomeScreen extends StatelessWidget {
               'Mobile Devices midterm exam',
               textAlign: TextAlign.center,
               style: TextStyle(
-                color: Colors.white,
+                color: Color (0xFF0A0908),
                 fontSize: 22,
                 fontWeight: FontWeight.bold,
                 letterSpacing: 0.5,
@@ -32,7 +32,7 @@ class HomeScreen extends StatelessWidget {
               '0192322 - Jose David Angarita',
               textAlign: TextAlign.center,
               style: TextStyle(
-                color: Color(0xFF6C7D8A),
+                color: Color(0xFF3B3731),
                 fontSize: 15,
                 fontWeight: FontWeight.w500,
               ),
@@ -41,7 +41,7 @@ class HomeScreen extends StatelessWidget {
               '0192357 - Sergio Andres Diaz',
               textAlign: TextAlign.center,
               style: TextStyle(
-                color: Color(0xFF6C7D8A),
+                color: Color(0xFF3B3731),
                 fontSize: 15,
                 fontWeight: FontWeight.w500,
               ),
